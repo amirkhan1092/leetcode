@@ -9,6 +9,7 @@ This repository contains a collection of LeetCode problems and their detailed so
 
 - **arrays/**: Problems related to arrays
 - **linked-lists/**: Problems related to linked lists
+- **string/**: Problems related to linked lists
 - **dynamic-programming/**: Problems on dynamic programming
 
 ## How to Use:
